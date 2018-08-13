@@ -1,2 +1,4 @@
 # hello-world
-mi 1st hithub repo
+mi 1st github repo
+
+this is a test of github usage
